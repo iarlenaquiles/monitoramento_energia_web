@@ -36,14 +36,7 @@ class Sidebar extends Component {
                 <i className="fa fa-dashboard fa-fw" /> &nbsp;Dashboard
               </a>
             </li>
-            <li>
-              <a href="" onClick={(e) => { e.preventDefault(); history.push('/blank'); }} >
-                Blank
-              </a>
-            </li>
-            <li>
-              <a href="http://www.strapui.com/">Premium React Themes</a>
-            </li>
+                        
           </ul>
         </div>
       </div>
